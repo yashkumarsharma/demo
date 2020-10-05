@@ -66,7 +66,7 @@ function Outlier() {
   return (
     <div>
       <h2>Hello!</h2>
-      <div> Refresh the page, it will return 404 Error.</div>
+      <div> Refresh the page, it will be loaded successfully.</div>
     </div>
   );
 }
